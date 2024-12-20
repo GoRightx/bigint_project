@@ -32,16 +32,6 @@ Email: buz2@mcmaster.ca
 
 In C++, built-in integer types such as `int64_t` are limited in their scope. `int64_t` is 64 bits, for the range of -9223372036854775808 to 9223372036854775807. However, this data range is insufficient in some situation. So this project aims to realize an efficient arbitrary-precision integer (bigint) class that can handle common arithmetic operations (addition, subtraction, multiplication, division, modulo, etc.) on big integers beyond the range of ordinary integers(eg. int64_t), making it easy for users to manipulate arbitrary precision integers as if they were using C++'s built-in int type.
 
-
-### Repository Structure
-
-Project root
-├── README.md        // Project documentation, which describe the usage, design principles and examples.
-├── data/            // The folder which has the input.txt file.
-│   └── input.txt    // The file which has the bigint and operator for the comparison test.
-├── bigint.hpp       // The header file for the bigint class, containing function declarations and member variable definitions.
-└── test.cpp         // This is a test file that contains various tests for the bigint class.
-
 ---
 ### Compiling and Compatibility
 
