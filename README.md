@@ -7,7 +7,6 @@ Email: buz2@mcmaster.ca
 
 - [**Project Introduction**](#project-introduction)
   - [**Goals**](#goals)
-  - [**Repository Structure**](#repository-structure)
   - [**Compiling and Compatibility**](#compiling-and-compatibility)
   - [**Overview of Core Functions**](#overview-of-core-functions)
 
