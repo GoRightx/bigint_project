@@ -2,7 +2,7 @@
 
 # Bigint：Efficient way to handle common arithmetic operations on big integers.
 
-By Zuoxiang Bu
+By Zuoxiang Bu /n
 Email: buz2@mcmaster.ca
 
 - [**Project Introduction**](#project-introduction)
